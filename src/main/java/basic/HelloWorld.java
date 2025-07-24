@@ -10,4 +10,12 @@ public void m1() {
 	System.out.println("hi hellow world   222222");
 	
 }
+
+public void m2() {
+	System.out.println("hi helmmmmmmmlow world   222222");
+	
 }
+public void m3() {
+	System.out.println("hi helmmmmmmmlow wormmmmld   222222");
+	
+}}
